@@ -1,6 +1,6 @@
 ## Simple React App Project
 
-
+Application for tracking daily expenses.
 <!--
 ## Available Scripts
 
